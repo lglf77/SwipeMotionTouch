@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SwipeMotion</string>
+
+    <string name="listener">Listener</string>
+    <string name="rx">Rx</string>
+    <string name="hello_swipe_detector">Mova o toque para algumas das direções</string>
+</resources>
